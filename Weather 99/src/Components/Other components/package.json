@@ -1,0 +1,34 @@
+{
+    "name": "WeatherNow",
+    "version": "1.0.0",
+    "description": "WeatherNow is your go-to weather companion, providing accurate and up-to-date weather information for any location around the globe. Whether you're planning your day, a weekend getaway, or a week-long vacation, WeatherNow offers a seamless and intuitive experience to keep you informed about the current conditions and forecasts.",
+    "main": "index.js",
+    "dependencies": {
+      
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      "extends": [
+        "react-app",
+        "react-app/jest"
+      ]
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
+  
