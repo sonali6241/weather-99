@@ -12,7 +12,6 @@ This weather app is a go-to weather companion, providing accurate and up-to-date
 ## Technologies Used
 
 - ReactJS
-- [Any additional libraries or frameworks you used]
 
 ## Getting Started
 
@@ -20,7 +19,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 
-- Node.js and npm installed on your machine
+- Node.js and npm installed in our machine
 
 ### Installing
 
